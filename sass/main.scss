@@ -1,0 +1,9 @@
+.body {
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: 1400px;
+}
+
+@import "./components/nav";
+@import "./components/hotsauce";
+@import "./components/scorpion";
